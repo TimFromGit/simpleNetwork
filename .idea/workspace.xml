@@ -18,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TpNGELc1ly0ZtUAokQXsOJmXT6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/handlers" />
@@ -54,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574152978734</updated>
       <workItem from="1574152979874" duration="7936000" />
-      <workItem from="1574180098870" duration="1191000" />
+      <workItem from="1574180098870" duration="1544000" />
     </task>
     <servers />
   </component>
@@ -63,5 +67,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
